@@ -1,0 +1,16 @@
+/**
+ * Author: chase barnts
+ * Date: 2019/08/29
+ *
+ * this is a github demo
+ * it prints my major
+ */
+#include<stdlib.h>
+#include<stdio.h>
+
+int main(int argc, char **argv) {
+
+  printf("computer engineering\n");
+
+  return 0;
+}
